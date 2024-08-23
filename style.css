@@ -70,7 +70,7 @@ body {
     text-align: center;
 }
 
-button {
+button, input {
     font-family: 'Cabin';
     border: none;
     padding: 1%;
@@ -86,4 +86,25 @@ button {
 .stats-container:hover {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
+}
+.gameTitle {
+    font-weight: bold;
+    font-size: large;
+}
+
+input {
+    text-align: center;
+}
+
+.navBar {
+    margin-left: 50px;
+    display: flex;
+}
+.navBar h2 {
+    padding: 0px 25px;
+}
+
+.navBar a {
+    text-decoration: none;
+    color: inherit;
 }
