@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/0TNxaMp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![CodepathPrework3](https://github.com/user-attachments/assets/fa0890ec-9260-4fe3-ad80-d6a64472bcaf)
+![](https://github.com/user-attachments/assets/fa0890ec-9260-4fe3-ad80-d6a64472bcaf)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with GIPHY CACPTURE  
 <!-- Recommended tools:
